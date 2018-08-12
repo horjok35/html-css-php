@@ -1,0 +1,44 @@
+img.logo {
+	margin-top: 175px; /* Üsten aşağı kadar olan boşluk */
+	width: 354px; /* Genişlik */
+	height: 101px; /* Yükseklik */
+	margin-bottom: 20px; /* Aşağıya dıştan boşluk */
+}
+
+input#arama {      /* ID'ye göre boyutlarını ayarlama */
+	width: 503px; /* Genişlik */
+	height: 34px; /* Yükseklik */
+	padding-left: 10px;  /* Kutunun içinde yazı ne kadar soldan başlıyacağı */
+	font-size: 18px;    /* Yazının boyutu  */ 
+	color: #232323;    /* Yazı Rengi */
+	border-radius: 2px;  /* Köşeleri ovalaştırır */
+	border-top: 1px solid #f7f7f7;
+	border-left: 1px solid #f7f7f7;
+	border-right: 1px solid  #cfcfcf;
+	border-bottom: 1px solid #cfcfcf;
+    margin-bottom: 27px; /* Aşağıdan dışarıdan yükseklik */
+
+
+}
+
+button.buton {
+	height: 36px;
+	background: #f3f3f3;
+	border: none;
+
+
+}
+
+#alan {
+	background-color: #dfdfdf; /* Arkaplan rengi */
+	padding-left: 19px;
+	text-align: center; /* Ortalama */
+	padding-top: 5px; /*Kutunun aşağıya olan mesafesi*/
+	padding-bottom: 5px; /*Kutunun yukarıya olan mesafesi */
+	margin-top: 202px; /* Yükseklik ayarlama */
+}
+
+body {
+	margin: 0px; /* margin: Dışarıya boşluk */
+
+}
